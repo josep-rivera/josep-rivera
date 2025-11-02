@@ -22,20 +22,16 @@ I'm a **Software Design & Development** student in my final year, passionate abo
 ## 📊 GitHub Statistics
 
 <div align="center">
-
   <img 
     src="https://github-readme-stats.vercel.app/api?username=josep-rivera&show_icons=true&theme=tokyonight&text_color=ffffff&icon_color=58a6ff&title_color=58a6ff" 
     alt="GitHub Stats" 
-    width="48%" 
   />
-  
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=josep-rivera&theme=tokyonight&layout=compact&text_color=ffffff&title_color=58a6ff" 
     alt="Top Languages" 
-    width="40%" 
   />
-
 </div>
+
 
 
 ---
